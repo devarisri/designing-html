@@ -1,0 +1,60 @@
+body
+{
+  background-color: #a3fff7;
+  font-family: Arial;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 3em;
+}
+
+input
+{
+  font-size: 1em;
+  width: 80%;
+}
+
+hr
+{
+  border-color: gray;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+}
+
+#key
+{
+  width:20%;
+}
+
+#result
+{
+  width: 40%;
+}
+
+select
+{
+  font-size: 1em;
+  width: 50%;
+}
+
+table
+{
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button
+{
+  font-size: 1em;
+}
+
+ol
+{
+  font-size: 1.5em;
+}
